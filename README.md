@@ -3,9 +3,9 @@
 - 🌱 I’m currently pursuing B.E in Artificial Intelligence & Data Science
 - 💞️ I’m looking to learn more
 
-<h1 align="center">Hi 👋, I'm Gowri Sri Vani</h1>
+<h1 align="center">Hello 👋 Coders</h1>
 <h3 align="left">Connect with me:</h3>
-<img align="right" img src='https://miro.medium.com/max/1400/0*4ty0Adbdg4dsVBo3.png'height=25%,width=25%>
+<img align="right" img src='https://miro.medium.com/max/1400/0*4ty0Adbdg4dsVBo3.png'height=10%,width=10%>
 <p align="left">
 <a href="https://linkedin.com/in/gowri sri vani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gowri sri vani" height="30" width="40" /></a>
 <a href="https://instagram.com/gowri_sri_vani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gowri_sri_vani" height="30" width="40" /></a>
